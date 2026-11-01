@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="public/logo.png" alt="SISMEDICO Logo" width="180" />
+
 
 # SISMEDICO
 
